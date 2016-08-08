@@ -1,0 +1,19 @@
+{
+  "name": "nodeintro",
+  "version": "1.0.0",
+  "description": "intro to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dawson-G/nodejsstarter.git"
+  },
+  "author": "Dawson G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dawson-G/nodejsstarter/issues"
+  },
+  "homepage": "https://github.com/Dawson-G/nodejsstarter#readme"
+}
